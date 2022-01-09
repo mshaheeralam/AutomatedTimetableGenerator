@@ -1,0 +1,943 @@
+-------------------------- STATISTICS --------------------------
+
+Hard constraints satisfied: 100.00 %
+Soft constraints satisfied: 33.33 %
+
+TOTAL empty space for all GROUPS and all days: 17
+MAX empty space for GROUP in day: 5
+AVERAGE empty space for GROUPS per week: 1.89
+
+TOTAL empty space for all TEACHERS and all days: 20
+MAX empty space for TEACHER in day: 5
+AVERAGE empty space for TEACHERS per week: 0.61
+
+Free term -> Tuesday: 11
+
+--------------------------- SCHEDULE ---------------------------
+
+Class 57
+Teacher: Massab Junaid 
+Subject: ME314-B 
+Groups: ME29-B 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH1 
+Time: Monday 13
+
+Class 83
+Teacher: Atta ur Rehman 
+Subject: CS311-A 
+Groups: CS29 
+Type: L 
+Duration: 3 hour(s)
+Classroom: FCSE OSP LAB 
+Time: Tuesday 8 9 10
+
+Class 48
+Teacher: Siraj ul Haq 
+Subject: ES341-A 
+Groups: ME29-B, ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FES LH3 
+Time: Tuesday 9
+
+Class 14
+Teacher: Massab Junaid 
+Subject: ME314-A 
+Groups: ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH1 
+Time: Wednesday 13
+
+Class 25
+Teacher: Ghulam Abbass 
+Subject: CS324 
+Groups: CS29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FCSE LH2 
+Time: Tuesday 13
+
+Class 38
+Teacher: Izhar Ali 
+Subject: HM322-C 
+Groups: ME29-B, ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: BB MLH 
+Time: Monday 14
+
+Class 18
+Teacher: Nisar 
+Subject: EE351-B 
+Groups: EEP29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH1 
+Time: Wednesday 12
+
+Class 75
+Teacher: Ali Turab 
+Subject: ME321-B 
+Groups: ME29-B 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH1 
+Time: Thursday 9
+
+Class 8
+Teacher: Malik Hassan 
+Subject: ME342-A 
+Groups: ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH1 
+Time: Thursday 10
+
+Class 63
+Teacher: Ilyas 
+Subject: ME364-B 
+Groups: ME29-B 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH1 
+Time: Thursday 11
+
+Class 81
+Teacher: Sakandar Hayat 
+Subject: ES304 
+Groups: ES29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FES MLH 
+Time: Wednesday 15
+
+Class 1
+Teacher: Habibullah Jamal 
+Subject: ES314 
+Groups: ES29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FES MLH 
+Time: Wednesday 16
+
+Class 33
+Teacher: Siraj ul Haq 
+Subject: ES341-A 
+Groups: ME29-B, ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FES LH2 
+Time: Tuesday 10
+
+Class 47
+Teacher: Ahmed Kamal 
+Subject: EE351-A 
+Groups: EEE29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH2 
+Time: Monday 15
+
+Class 37
+Teacher: Ghulam Hussain 
+Subject: ME353-B 
+Groups: ME29-B 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH3 
+Time: Thursday 12
+
+Class 13
+Teacher: Hadeed 
+Subject: EE313-A 
+Groups: EEE29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH3 
+Time: Monday 16
+
+Class 93
+Teacher: Ahsan Shah 
+Subject: CS325 
+Groups: CS29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FCSE LH2 
+Time: Tuesday 15
+
+Class 51
+Teacher: Liaquat Ali 
+Subject: HM321-A 
+Groups: CS29, CE29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: BB MLH 
+Time: Wednesday 15
+
+Class 55
+Teacher: Ahsan Shah 
+Subject: CS325 
+Groups: CS29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FCSE LH1 
+Time: Tuesday 16
+
+Class 50
+Teacher: Usama Javaid 
+Subject: ES314 
+Groups: ES29 
+Type: L 
+Duration: 3 hour(s)
+Classroom: FES PH LAB 
+Time: Monday 12 13 14
+
+Class 26
+Teacher: Izhar Ali 
+Subject: HM322-B 
+Groups: EEP29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: BB MLH 
+Time: Monday 13
+
+Class 7
+Teacher: Asad 
+Subject: EE351-A 
+Groups: EEE29 
+Type: L 
+Duration: 3 hour(s)
+Classroom: FEE LCA LAB 
+Time: Monday 8 9 10
+
+Class 85
+Teacher: Ilyas 
+Subject: ME364-A 
+Groups: ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME MLH 
+Time: Monday 11
+
+Class 17
+Teacher: Siraj ul Haq 
+Subject: ES341-A 
+Groups: ME29-B, ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FES LH4 
+Time: Tuesday 11
+
+Class 68
+Teacher: Haleema 
+Subject: EE351-B 
+Groups: EEP29 
+Type: L 
+Duration: 3 hour(s)
+Classroom: FEE DLD LAB 
+Time: Wednesday 14 15 16
+
+Class 66
+Teacher: Izhar Ali 
+Subject: HM322-C 
+Groups: ME29-B, ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: BB MLH 
+Time: Monday 12
+
+Class 77
+Teacher: Izhar Ali 
+Subject: HM322-B 
+Groups: EEP29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: BB MLH 
+Time: Thursday 12
+
+Class 9
+Teacher: Afaq 
+Subject: EE314-B 
+Groups: EEP29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH4 
+Time: Tuesday 15
+
+Class 11
+Teacher: Massab Junaid 
+Subject: ME314-B 
+Groups: ME29-B 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH2 
+Time: Thursday 14
+
+Class 54
+Teacher: Ghulam Hussain 
+Subject: ME353-A 
+Groups: ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH2 
+Time: Thursday 16
+
+Class 22
+Teacher: Umer Hashim 
+Subject: EE313-B 
+Groups: EEP29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE MLH 
+Time: Thursday 9
+
+Class 99
+Teacher: Naveed ul Haq 
+Subject: ES332 
+Groups: ES29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FES LH1 
+Time: Wednesday 11
+
+Class 4
+Teacher: Mazhar Ali 
+Subject: ES341-B 
+Groups: CS29, CV29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FES LH2 
+Time: Wednesday 8
+
+Class 2
+Teacher: Nisar 
+Subject: EE351-B 
+Groups: EEP29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH4 
+Time: Monday 16
+
+Class 88
+Teacher: Abdullah 
+Subject: EE314-B 
+Groups: EEP29 
+Type: L 
+Duration: 3 hour(s)
+Classroom: FEE LCA LAB 
+Time: Wednesday 9 10 11
+
+Class 79
+Teacher: Afaq 
+Subject: EE314-B 
+Groups: EEP29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH1 
+Time: Thursday 8
+
+Class 30
+Teacher: Usman 
+Subject: ES361 
+Groups: ES29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FES LH3 
+Time: Wednesday 8
+
+Class 5
+Teacher: Habibullah Jamal 
+Subject: ES314 
+Groups: ES29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FES LH1 
+Time: Wednesday 9
+
+Class 42
+Teacher: Umer Hashim 
+Subject: EE313-B 
+Groups: EEP29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH1 
+Time: Thursday 11
+
+Class 3
+Teacher: Shahid Alam 
+Subject: EE315-B 
+Groups: EEP29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH1 
+Time: Thursday 10
+
+Class 34
+Teacher: Attique 
+Subject: EE315-A 
+Groups: EEE29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH2 
+Time: Thursday 11
+
+Class 0
+Teacher: Habibullah Jamal 
+Subject: ES314 
+Groups: ES29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FES MLH 
+Time: Wednesday 14
+
+Class 89
+Teacher: Sakandar Hayat 
+Subject: ES304 
+Groups: ES29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FES LH4 
+Time: Tuesday 13
+
+Class 10
+Teacher: Ghulam Abbass 
+Subject: CS324 
+Groups: CS29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FCSE LH1 
+Time: Wednesday 9
+
+Class 15
+Teacher: Izhar Ali 
+Subject: HM322-B 
+Groups: EEP29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: BB MLH 
+Time: Thursday 14
+
+Class 90
+Teacher: Ghulam Hussain 
+Subject: ME353-A 
+Groups: ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH2 
+Time: Thursday 15
+
+Class 16
+Teacher: Ghulam Abbass 
+Subject: 321 
+Groups: ME29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FCSE LH3 
+Time: Tuesday 15
+
+Class 35
+Teacher: Hamza Naeem 
+Subject: ES332 
+Groups: ES29 
+Type: L 
+Duration: 3 hour(s)
+Classroom: FES PH LAB 
+Time: Monday 16 8 9
+
+Class 61
+Teacher: Naveed 
+Subject: EE313-B 
+Groups: EEP29 
+Type: L 
+Duration: 3 hour(s)
+Classroom: FEE LCA LAB 
+Time: Tuesday 16 8 9
+
+Class 29
+Teacher: Zehra 
+Subject: EE314-A 
+Groups: EEE29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE MLH 
+Time: Thursday 12
+
+Class 80
+Teacher: Ghulam Abbass 
+Subject: CS324 
+Groups: CS29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FCSE LH1 
+Time: Wednesday 10
+
+Class 12
+Teacher: Izhar Ali 
+Subject: HM322-C 
+Groups: ME29-B, ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: BB MLH 
+Time: Tuesday 13
+
+Class 92
+Teacher: Ghulam Hussain 
+Subject: ME353-B 
+Groups: ME29-B 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH3 
+Time: Wednesday 14
+
+Class 23
+Teacher: Ghulam Abbass 
+Subject: 321 
+Groups: ME29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FCSE LH2 
+Time: Tuesday 16
+
+Class 67
+Teacher: Izhar Ali 
+Subject: HM322-A 
+Groups: EEE29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: BB MLH 
+Time: Thursday 13
+
+Class 78
+Teacher: Liaquat Ali 
+Subject: HM321-B 
+Groups: ES29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: BB MLH 
+Time: Thursday 9
+
+Class 49
+Teacher: Ali Turab 
+Subject: ME321-A 
+Groups: ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH2 
+Time: Monday 9
+
+Class 28
+Teacher: Ali Turab 
+Subject: ME321-B 
+Groups: ME29-B 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH2 
+Time: Thursday 10
+
+Class 46
+Teacher: Ghulam Hussain 
+Subject: ME353-B 
+Groups: ME29-B 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH2 
+Time: Monday 11
+
+Class 41
+Teacher: Izhar Ali 
+Subject: HM322-A 
+Groups: EEE29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: BB MLH 
+Time: Thursday 15
+
+Class 31
+Teacher: Attique 
+Subject: EE315-A 
+Groups: EEE29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH3 
+Time: Wednesday 12
+
+Class 84
+Teacher: Zeeshan Ali 
+Subject: CS311-A 
+Groups: CS29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FCSE LH1 
+Time: Wednesday 11
+
+Class 39
+Teacher: Attique 
+Subject: EE315-A 
+Groups: EEE29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH1 
+Time: Thursday 14
+
+Class 73
+Teacher: Ilyas 
+Subject: ME364-B 
+Groups: ME29-B 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH4 
+Time: Thursday 16
+
+Class 58
+Teacher: Liaquat Ali 
+Subject: HM321-A 
+Groups: CS29, CE29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: BB MLH 
+Time: Monday 9
+
+Class 40
+Teacher: Hamid 
+Subject: EE313-A 
+Groups: EEE29 
+Type: L 
+Duration: 3 hour(s)
+Classroom: FEE MS LAB 
+Time: Monday 11 12 13
+
+Class 44
+Teacher: Ahmed Kamal 
+Subject: EE351-A 
+Groups: EEE29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH2 
+Time: Thursday 9
+
+Class 62
+Teacher: Ali Turab 
+Subject: ME321-A 
+Groups: ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH1 
+Time: Tuesday 8
+
+Class 56
+Teacher: Liaquat Ali 
+Subject: HM321-B 
+Groups: ES29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: BB MLH 
+Time: Thursday 11
+
+Class 21
+Teacher: Usman 
+Subject: ES361 
+Groups: ES29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FES LH1 
+Time: Wednesday 13
+
+Class 19
+Teacher: Massab Junaid 
+Subject: ME314-B 
+Groups: ME29-B 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH1 
+Time: Monday 10
+
+Class 69
+Teacher: Liaquat Ali 
+Subject: HM321-A 
+Groups: CS29, CE29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: BB MLH 
+Time: Monday 8
+
+Class 60
+Teacher: Mazhar Ali 
+Subject: ES341-B 
+Groups: CS29, CV29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FES LH1 
+Time: Wednesday 16
+
+Class 53
+Teacher: Zeeshan Ali 
+Subject: CS311-A 
+Groups: CS29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FCSE MLH 
+Time: Wednesday 14
+
+Class 32
+Teacher: Mazhar Ali 
+Subject: ES341-B 
+Groups: CS29, CV29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FES LH2 
+Time: Wednesday 12
+
+Class 76
+Teacher: Shahid Alam 
+Subject: EE315-B 
+Groups: EEP29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH1 
+Time: Thursday 15
+
+Class 74
+Teacher: Rida 
+Subject: ME346-A 
+Groups: ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH2 
+Time: Thursday 9
+
+Class 91
+Teacher: Ahsan Shah 
+Subject: CS325 
+Groups: CS29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FCSE MLH 
+Time: Tuesday 12
+
+Class 94
+Teacher: Ali Turab 
+Subject: ME321-A 
+Groups: ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH3 
+Time: Thursday 14
+
+Class 36
+Teacher: Nisar 
+Subject: EE351-B 
+Groups: EEP29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE MLH 
+Time: Thursday 16
+
+Class 97
+Teacher: Hadeed 
+Subject: EE313-A 
+Groups: EEE29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH1 
+Time: Thursday 16
+
+Class 20
+Teacher: Izhar Ali 
+Subject: HM322-A 
+Groups: EEE29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: BB MLH 
+Time: Wednesday 10
+
+Class 64
+Teacher: Massab Junaid 
+Subject: ME314-A 
+Groups: ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH4 
+Time: Wednesday 14
+
+Class 24
+Teacher: Shahid Alam 
+Subject: EE315-B 
+Groups: EEP29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE MLH 
+Time: Monday 8
+
+Class 65
+Teacher: Usman 
+Subject: EE314-A 
+Groups: EEE29 
+Type: L 
+Duration: 3 hour(s)
+Classroom: FEE MS LAB 
+Time: Tuesday 14 15 16
+
+Class 95
+Teacher: Umer Hashim 
+Subject: EE313-B 
+Groups: EEP29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE MLH 
+Time: Monday 10
+
+Class 87
+Teacher: Ilyas 
+Subject: ME364-A 
+Groups: ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH2 
+Time: Monday 10
+
+Class 71
+Teacher: Ahmed Kamal 
+Subject: EE351-A 
+Groups: EEE29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH2 
+Time: Monday 10
+
+Class 27
+Teacher: Afaq 
+Subject: EE314-B 
+Groups: EEP29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH1 
+Time: Thursday 13
+
+Class 6
+Teacher: Ali Turab 
+Subject: ME321-B 
+Groups: ME29-B 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH3 
+Time: Wednesday 13
+
+Class 86
+Teacher: Zehra 
+Subject: EE314-A 
+Groups: EEE29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH3 
+Time: Thursday 8
+
+Class 52
+Teacher: Sakandar Hayat 
+Subject: ES304 
+Groups: ES29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FES LH3 
+Time: Wednesday 10
+
+Class 82
+Teacher: Liaquat Ali 
+Subject: HM321-B 
+Groups: ES29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: BB MLH 
+Time: Monday 11
+
+Class 100
+Teacher: Zeeshan Ali 
+Subject: CS311-A 
+Groups: CS29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FCSE LH2 
+Time: Tuesday 11
+
+Class 101
+Teacher: Rida 
+Subject: ME346-B 
+Groups: ME29-B 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH3 
+Time: Thursday 15
+
+Class 59
+Teacher: Usman 
+Subject: ES361 
+Groups: ES29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FES MLH 
+Time: Wednesday 16
+
+Class 45
+Teacher: Hadeed 
+Subject: EE313-A 
+Groups: EEE29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH2 
+Time: Thursday 10
+
+Class 72
+Teacher: Massab Junaid 
+Subject: ME314-A 
+Groups: ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH4 
+Time: Monday 8
+
+Class 70
+Teacher: Zehra 
+Subject: EE314-A 
+Groups: EEE29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FEE LH1 
+Time: Monday 8
+
+Class 96
+Teacher: Naveed ul Haq 
+Subject: ES332 
+Groups: ES29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FES LH1 
+Time: Wednesday 15
+
+Class 102
+Teacher: Malik Hassan 
+Subject: ME342-B 
+Groups: ME29-B 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME MLH 
+Time: Tuesday 8
+
+Class 43
+Teacher: Naveed ul Haq 
+Subject: ES332 
+Groups: ES29 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FES LH2 
+Time: Wednesday 12
+
+Class 98
+Teacher: Ghulam Hussain 
+Subject: ME353-A 
+Groups: ME29-A 
+Type: P 
+Duration: 1 hour(s)
+Classroom: FME LH3 
+Time: Thursday 11
